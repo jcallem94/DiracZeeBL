@@ -2,6 +2,7 @@
 
 Code repository for the paper
 **Phenomenology of the Zee model for Dirac neutrinos and general neutrino interactions**
+
 by Julian Calle, Diego Restrepo, Óscar Zapata.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
