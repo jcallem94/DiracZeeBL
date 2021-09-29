@@ -147,18 +147,7 @@ ParameterDefinitions = {
 {Ve,        {Description ->"Left-Lepton-Mixing-Matrix"}},
 {Ue,        {Description ->"Right-Lepton-Mixing-Matrix"}},
 
-  (*{ZM,	    {Description -> "Neutrino-Mixing-Matrix"}},*)
-  
-{ZVL,	    {Description -> "Neutrino-Mixing-Matrix",
-             LaTeX->"Z^{V_L}", 
-             LesHouches ->  SNUMIX,
-             OutputName-> ZVL             
-             }},
-
-{ZVR,	    {LaTeX -> "Z^{V_R}",
-             LesHouches ->  SNURMIX,
-             OutputName-> ZVR }},  	
-  
+{ZM,	    {Description -> "Neutrino-Mixing-Matrix"}},
 
 {ZH,        { Description->"Scalar-Mixing-Matrix", 
                Dependence -> None,
